@@ -1,0 +1,6 @@
+{
+  "name": "SIGERH - Recursos Humanos Contraloría Municipal",
+  "description": "Sistema Integral de Gestión de Recursos Humanos para el control de empleados, expedientes digitales, carga familiar, antigüedad en la administración pública, escala de vacaciones, permisos, reposos y nómina salarial.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
